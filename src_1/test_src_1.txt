@@ -3,3 +3,4 @@ test 11111
 test 33333 from repo_sub
 test 4444_1 from repo_sub
 test 4444_2 from repo_sub
+test 4444_3 from repo_sub
